@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Condiment');
+html * {
+        box-sizing: border-box;
+}
+
+body {
+      font-family: Arial, Helvetica, sans-serif; 
+      
+      
+    }
+
+.row-nav {
+    padding: 50px;
+    text-transform: uppercase;
+    opacity: 0.5;
+           
+    }
+
+    .navbar-brand {
+              font-size: 30px;
+              font-weight: 600;
+              letter-spacing: 2px; 
+    }
+
+    h1 {
+        font-family: 'Condiment', cursive;
+        font-size: 150px;
+      
+        
+    }
+    h2 {
+         font-size: 100px;
+         opacity: 0.9;
+         letter-spacing: 0; 
+    }
+    h3 {
+        font-size: 50px;
+        color: gray;
+    }
+    .main-text {
+                text-align: center;
+
+    }
